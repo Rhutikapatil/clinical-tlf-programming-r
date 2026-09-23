@@ -1,0 +1,28 @@
+# Clinical datasets
+*.xpt
+*.sas7bdat
+*.sas7bcat
+*.xls
+*.xlsx
+*.csv
+
+# Private project folders
+01_ADaM_Data/
+02_Mock_Shells/
+03_Primary_Output/
+04_Reference_Code/
+05_Reference_Macros/
+07_Logs/
+09_Validation/
+10_Compare_Output/
+11_Final_Submission/
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Windows files
+Thumbs.db
+desktop.ini
