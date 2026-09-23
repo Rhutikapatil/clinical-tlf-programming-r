@@ -5,7 +5,9 @@
 *.xls
 *.xlsx
 *.csv
-
+# Local portfolio data and generated outputs
+data/
+local_outputs/ 
 # Private project folders
 01_ADaM_Data/
 02_Mock_Shells/
